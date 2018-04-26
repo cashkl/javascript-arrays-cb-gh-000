@@ -14,6 +14,6 @@ function addElementToEndOfArray(array,element) {
   return arr2
 }
 function destructivelyAddElementToEndOfArray(array,element) {
-  arr.last=n
+  arraty.last=n
   return array
 }
