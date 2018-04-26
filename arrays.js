@@ -5,9 +5,9 @@ var array2=array
   return array2
 }
 function destructivelyAddElementToBeginningOfArray(array,element) {
-  var arr2=array;
-  arr2[0]=element;
-  return arr2
+
+  array[0]=element;
+  return array
 }
 function addElementToEndOfArray(array,element) {
   var arr2=array
